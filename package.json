@@ -1,0 +1,23 @@
+{
+  "name": "e",
+  "version": "1.0.0",
+  "description": "dundung",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedhabeeb73/e-dundung.git"
+  },
+  "author": "ahmed habeeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedhabeeb73/e-dundung/issues"
+  },
+  "homepage": "https://github.com/ahmedhabeeb73/e-dundung#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
+  }
+}
